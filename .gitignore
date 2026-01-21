@@ -1,0 +1,8 @@
+.claude
+.eslintcache
+.DS_Store
+.vscode
+_esm
+_types
+node_modules
+tsconfig.tsbuildinfo
