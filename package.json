@@ -54,7 +54,7 @@
     "vitest": "^4.0.17"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=12"
   },
   "type": "module",
   "exports": {
